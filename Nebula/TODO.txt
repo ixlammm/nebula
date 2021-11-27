@@ -1,0 +1,20 @@
+# NEBULA PROGRAMMING LANGUAGE TO-DO LIST (7PM 9th September 2021)
+
+	# > [ ] ASSEMBLER
+		|
+		> [ ] CODE GENERATOR
+			|
+			> [ ] INTEL ARCHETECTURE
+				|
+				> [ ] 32bit
+					|
+					> [ ] NECESSARY INSTRUCTIONS
+					> [ ] FULL INSTRUCTION SET
+				> [ ] 64bit
+					|
+					> [ ] NECESSARY INSTRUCTIONS
+					> [ ] FILL INSTRUCTION SET
+			> [ ] ARM ARCHITECTURE
+		> [ ] LEXER & PARSER
+	# > [ ] LINKER
+	# > [ ] COMPILER
